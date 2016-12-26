@@ -1,0 +1,8 @@
+title: Jree1.0
+description: JREE1.0  is a  Programming  Language   invented  in  core  java  by  wilmix   jemin j at  year  2016
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
