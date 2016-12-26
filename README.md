@@ -1,9 +1,13 @@
 # JREE1.0
 =========
 
-JREE1.0  is a  Programming  Language   invented  in  core  java  by  wilmix   jemin j at  year  2016.
+JREE1.0  is a  Programming  Language   invented  in  core  java and  JDollar  P.L by  wilmix   jemin j at  year  2016.
 
 it is focused   on remote   web application.
+
+Note:  We  can   easily  constuct  Remoteserver  using  JDollar.
+
+
 
 
 JREE1.0
