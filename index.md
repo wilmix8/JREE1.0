@@ -70,3 +70,8 @@ c) OPLUS Part3 (simillar  to JDOLLAR part3)
 
 
 Note:  it is used  only  in Linux Platform.
+
+
+Note: Only java(jdk1.8,jdk1.7) is used with JREE in linux platform.
+
+Note: Only JAVA/J2ee professionals are selected for JREE1.0.
