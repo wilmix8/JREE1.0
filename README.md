@@ -7,6 +7,9 @@ it is focused   on remote   web application.
 
 Note:  We  can   easily  constuct  Remoteserver  using  JDollar.
 
+Note:  Here  we use  only  OAK JAVA(JAVA7) P.L.Since  Jdk1.7,Jdk1.8,etc  source  code  can  easily  taken
+
+by using  JAD  Decompiler.
 
 
 
