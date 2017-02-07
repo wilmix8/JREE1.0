@@ -4,7 +4,7 @@ DisAdvantage  of  JAVA /j2ee p.l
 As  we  see   JAVA Decompiler  known  as  "JAD"  in  website  http://www.javadecompilers.com/.
 
 So  any  class file  of   JAVA (jdk1.6,jdl1.7,Jdk1.8) source  code  can  be  easily converted  to  java
-source  code .  SO JAVA /j2ee  fails  completly.
+source  code by  using  JAD Decompiler.  SO JAVA /j2ee  fails  completly.
 
 Inorder to  eradicate  the demerits  JAVA7(OAK JAVA7)  a  new   Programming Language is introduced by  wilmix  jemin.
 
