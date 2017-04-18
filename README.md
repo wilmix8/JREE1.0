@@ -1,15 +1,11 @@
 # JREE1.0
 =========
 
-JREE1.0  is a  Programming  Language   invented  in  core  java and  JDollar  P.L by  wilmix   jemin j at  year  2016.
+JREE1.0  is a  Programming  Language   invented  in  JDollar  P.L by  wilmix   jemin j at  year  2016.
 
 it is focused   on remote   web application.
 
 Note:  We  can   easily  constuct  Remoteserver  using  JDollar.
-
-Note:  Here  we use  only  OAK JAVA(JAVA7) P.L.Since  Jdk1.7,Jdk1.8,etc  source  code  can  easily  taken
-
-by using  JAD  Decompiler.
 
 
 
@@ -25,11 +21,11 @@ WPLUS
 =====
 
 
-WPLUS  is invented  in   JAVA  by wilmix jemin j  at year 2016.
+WPLUS  is invented  in   JAVA7  by wilmix jemin j  at year 2016.
 
 
 
-WPLUS  is  the combination of  JAVA   P.L.
+WPLUS  is  the combination of  JAVA7   P.L.
 
 
 
@@ -56,10 +52,10 @@ c) WPLUS Part3 (simillar  to WEB part3)
 OPLUS
 ======
 
-OPLUS  is invented  in   JAVA  by wilmix jemin j  at year 2016.
+OPLUS  is invented  in   JAVA7  by wilmix jemin j  at year 2016.
 
 
-OPLUS is  the combination of  JAVA   P.L.
+OPLUS is  the combination of  JAVA7   P.L.
 
 
 
@@ -79,6 +75,6 @@ c) OPLUS Part3 (simillar  to JDOLLAR part3)
 Note:  it is used  only  in Linux Platform.
 
 
-Note:  Only    java(jdk1.8,jdk1.7)  is  used  with  JREE in linux platform.
 
-Note:  Only  JAVA/J2ee  professionals  are   selected   for  JREE1.0. 
+
+Note:  Only  JAVA7(OAKJAVA)  professionals  are   selected   for  JREE1.0. 
