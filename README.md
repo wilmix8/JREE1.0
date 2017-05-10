@@ -78,3 +78,5 @@ Note:  it is  used  only  for   java/j2ee  professionals.
 
 
 Note:  Only  JAVA7(OAKJAVA)  professionals  are   selected   for  JREE1.0. 
+
+note: here only Jdk1.8 or Jdk1.7 or Jdk1.9 is used.
