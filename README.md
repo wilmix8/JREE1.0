@@ -7,6 +7,12 @@ it is focused   on remote   web application.
 
 Note:  We  can   easily  constuct  Remoteserver  using  JDollar.
 
+Note:   JREE1.0  is  a  Biggest Topic  having  JDollarpart2  repeated   6  times.
+
+and  used   with  jdk1.6,jdk1.7,jdk1.8.
+
+
+
 
 
 JREE1.0
