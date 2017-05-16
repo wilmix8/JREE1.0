@@ -78,8 +78,6 @@ b) OPLUS Part2 (simillar  to JDOLLAR part2)
 c) OPLUS Part3 (simillar  to JDOLLAR part3)
 
 
-Note:  it is  used  only  for   java/j2ee  professionals.
-
 
 
 
