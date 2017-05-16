@@ -87,6 +87,6 @@ Note:  Only  JAVA7(OAKJAVA)  professionals  are   selected   for  JREE1.0.
 
 note: Since  Jdk versions   fails  completly   in learnable   and   code  security
 
-so OAKJAVA  is  followed  ; but here   only oracle  database  is  focused.
+so OAKJAVA7  is  followed  ; but here   only oracle  database  is  focused.
 
 
