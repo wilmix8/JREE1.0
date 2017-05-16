@@ -9,7 +9,7 @@ Note:  We  can   easily  constuct  Remoteserver  using  JDollar.
 
 Note:   JREE1.0  is  a  Biggest Topic  having  JDollarpart2  repeated   6  times.
 
-and  used   with  jdk1.6,jdk1.7,jdk1.8.
+and  used   with  OAKJAVA7.
 
 
 
@@ -85,4 +85,8 @@ Note:  it is  used  only  for   java/j2ee  professionals.
 
 Note:  Only  JAVA7(OAKJAVA)  professionals  are   selected   for  JREE1.0. 
 
-note: here only Jdk1.8 or Jdk1.7 or Jdk1.9 is used.
+note: Since  Jdk versions   fails  completly   in learnable   and   code  security
+
+so OAKJAVA  is  followed  ; but here   only oracle  database  is  focused.
+
+
